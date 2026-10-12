@@ -506,13 +506,15 @@ Overall findings အရ Burmese polarization classification တွင် **chara
 2. **AIE-F B2 — Assignment 2.**
    https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-2
 
-3. **Task 1 — Polarization Detection.**
+3. Thu, Y. K. (2025). oppaWord: Hybrid DAG+Bi-MM+LM Myanmar word segmenter [Computer software]. [GitHub](https://github.com/ye-kyaw-thu/oppaWord?utm_source=chatgpt.com).
+
+4. **Task 1 — Polarization Detection.**
    `Task1_PolarizationDetection.ipynb`
 
-4. **Task 2 — Polarization Type Classification.**
+5. **Task 2 — Polarization Type Classification.**
    `Task2_TypeClassification.ipynb`
 
-5. **Task 3 — Polarization Manifestation Identification.**
+6. **Task 3 — Polarization Manifestation Identification.**
    `Task3_ManifestationIdentification.ipynb`
 
 ---
